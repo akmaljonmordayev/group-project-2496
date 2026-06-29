@@ -5,6 +5,7 @@
   margin-top: 60px;
 
   background: linear-gradient(90deg, #00c6ff, #0072ff, #ff00cc);
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
   letter-spacing: 2px;
